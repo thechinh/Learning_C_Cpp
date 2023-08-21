@@ -1,6 +1,12 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Ignore all files in all subdirectories
+!*/
+
 .DS_Store
-# Unignore all with extensions except .gitignore and .DS_Store
-!*.*.gitignore
-!*.DS_Store
 
 
