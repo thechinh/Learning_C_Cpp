@@ -2,7 +2,7 @@
 *
 # Unignore all with extensions
 !*.*
-# Ignore all files in all subdirectories
+# Unignore all dirs
 !*/
 
 ### Above combination will ignore all files without extension ###
