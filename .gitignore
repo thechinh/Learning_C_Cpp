@@ -1,11 +1,11 @@
 # Ignore all
 *
-
 # Unignore all with extensions
 !*.*
-
 # Ignore all files in all subdirectories
 !*/
+
+### Above combination will ignore all files without extension ###
 
 .DS_Store
 
