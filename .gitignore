@@ -1,1 +1,6 @@
 .DS_Store
+# Unignore all with extensions except .gitignore and .DS_Store
+!*.*.gitignore
+!*.DS_Store
+
+
